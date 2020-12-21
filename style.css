@@ -289,7 +289,7 @@ html {
 	height: 100%;
 	width: 100%;
 	transform-style: preserve-3d;
-	transition: .3s ease transform;
+	transition: .7s ease transform;
 	display: block;
 }
 .services .services-info .service .service-card .service-front,
